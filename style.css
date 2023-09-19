@@ -1,0 +1,29 @@
+h1 {
+    color: pink;
+    background-color: yellow;
+}
+
+table,td,tr,th{
+    border: 4px solid black; 
+    
+
+}
+.vardisperi {
+    background-color: pink;
+}
+
+#nika{
+    background-color: brown;
+    border: dotted 5px;
+}
+th{
+    background-color: cyan;
+}
+.dasged {
+    border: dashed 2px;
+}
+
+#gio {
+   border: dashed 3px;
+   background-color: aquamarine;
+}

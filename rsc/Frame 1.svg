@@ -1,0 +1,22 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 1">
+<rect width="100" height="100" fill="white"/>
+<g id="Rectangle 3" filter="url(#filter0_d_1_2)">
+<rect x="25" y="25" width="51" height="50" rx="2" fill="#1DA1F2"/>
+</g>
+<g id="&#240;&#159;&#166;&#134; icon &#34;twitter&#34;">
+<path id="Vector" d="M67.5 36.1267C67.5 36.1267 64.6413 37.9721 63.0517 38.4952C62.1984 37.4232 61.0645 36.6634 59.8032 36.3185C58.542 35.9737 57.2143 36.0604 55.9996 36.567C54.785 37.0736 53.7419 37.9757 53.0117 39.1511C52.2815 40.3266 51.8992 41.7187 51.9167 43.1393V44.6874C49.427 44.7579 46.9601 44.1546 44.7356 42.931C42.511 41.7075 40.598 39.9018 39.1667 37.6747C39.1667 37.6747 33.5 51.6072 46.25 57.7994C43.3324 59.9635 39.8568 61.0486 36.3333 60.8955C49.0833 68.6358 64.6667 60.8955 64.6667 43.0929C64.6654 42.6617 64.6274 42.2316 64.5533 41.808C65.9992 40.2499 67.5 36.1267 67.5 36.1267Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1_2" x="25" y="25" width="53" height="52" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="2" dy="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2" result="shape"/>
+</filter>
+</defs>
+</svg>
